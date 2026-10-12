@@ -8,7 +8,7 @@ Based in Athens, Greece. Open to fully remote roles.
 - 12+ years running IT infrastructure for an engineering firm: networks,
   servers, backups, user support and security basics
 - MSc in Applied Informatics (Harokopio University, 2026)
-- Thesis: [thesis title] — honeypot deployment with Cowrie, Suricata,
+- Thesis: *ΒΑΛΕ ΕΔΩ ΤΟΝ ΤΙΤΛΟ* — honeypot deployment with Cowrie, Suricata,
   EveBox and Grafana, with attacker activity mapped to MITRE ATT&CK
 
 ## Currently
@@ -19,12 +19,10 @@ Based in Athens, Greece. Open to fully remote roles.
 
 ## Projects
 
-- **home-soc-lab** — detection lab built from scratch (in progress)
-- **ToolForge** — multi-tool website
-- **The Archivist** — browser idle game
+- [**The Archivist**](https://github.com/VpresV/the-archivist) — dark fantasy
+  idle clicker with generated lore ([play it](https://thearchivistgame.net))
+- [**ToolForge**](https://github.com/VpresV/toolforge) — multi-tool website
 
 ## Find me
 
-- LinkedIn: [link]
-- TryHackMe: [link]
-- Hack The Box: [link]
+- [LinkedIn](ΒΑΛΕ_ΕΔΩ_ΤΟ_LINKEDIN_URL)
